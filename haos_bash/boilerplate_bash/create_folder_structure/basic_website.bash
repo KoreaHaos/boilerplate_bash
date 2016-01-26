@@ -1,0 +1,1 @@
+mkdir pgs js img
